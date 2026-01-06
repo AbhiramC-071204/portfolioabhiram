@@ -14,6 +14,15 @@ const projects = [
     github: 'https://github.com/AbhiramC-071204/AnimalDetectionusingYoloDLModel',
     live: null,
   },
+  {
+    title: 'Assistive Webpage',
+    description: 'A responsive webpage designed and developed to strengthen front-end web development fundamentals. This project demonstrates how different technologies work together to build interactive and user-friendly web interfaces.',
+    techStack: ['HTML', 'CSS', 'JavaScript'],
+    status: 'Completed',
+    category: 'Web Development',
+    github: 'https://github.com/AbhiramC-071204/Assistive',
+    live: null,
+  },
 ];
 
 const categories = ['All', 'Machine Learning', 'Web Development', 'Java'];
