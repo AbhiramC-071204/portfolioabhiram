@@ -23,9 +23,18 @@ const projects = [
     github: 'https://github.com/AbhiramC-071204/Assistive',
     live: null,
   },
+  {
+    title: 'FoodyHub',
+    description: 'A full-stack Food Delivery web application featuring user authentication, restaurant browsing, cart management, and order placement. Built with a robust backend using Java Servlets and DAO patterns, connected to a database via JDBC for seamless data operations.',
+    techStack: ['HTML', 'CSS', 'JavaScript', 'JSP', 'Java', 'Servlets', 'JDBC'],
+    status: 'Completed',
+    category: 'Full Stack',
+    github: 'https://github.com/AbhiramC-071204/FoodyHub',
+    live: null,
+  },
 ];
 
-const categories = ['All', 'Machine Learning', 'Web Development', 'Java'];
+const categories = ['All', 'Machine Learning', 'Web Development', 'Full Stack', 'Java'];
 
 export const Projects = () => {
   const [activeCategory, setActiveCategory] = useState('All');
