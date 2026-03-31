@@ -30,7 +30,7 @@ const skillCategories = [
   {
     title: 'AI Tools',
     icon: Sparkles,
-    skills: ['Qwen'],
+    skills: ['Lovable', 'ChatGPT', 'Qwen', 'Emergent'],
     color: 'from-violet-400 to-purple-500',
   },
 ];
