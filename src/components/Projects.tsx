@@ -32,6 +32,15 @@ const projects = [
     github: 'https://github.com/AbhiramC-071204/FoodyHub',
     live: null,
   },
+  {
+    title: 'WeatherFlow Forecast',
+    description: 'A weather forecasting web application that provides real-time weather data including temperature, humidity, wind speed, and weather conditions for any city. Features a clean UI with dynamic weather icons and a 5-day forecast view for comprehensive weather tracking.',
+    techStack: ['HTML', 'CSS', 'JavaScript', 'Weather API'],
+    status: 'Completed',
+    category: 'Web Development',
+    github: 'https://github.com/AbhiramC-071204/weatherflowforecast',
+    live: null,
+  },
 ];
 
 const categories = ['All', 'Machine Learning', 'Web Development', 'Full Stack', 'Java'];
