@@ -6,31 +6,31 @@ const skillCategories = [
   {
     title: 'Frontend',
     icon: Code,
-    skills: ['HTML', 'CSS'],
+    skills: ['HTML', 'CSS', 'JSP'],
     color: 'from-primary to-cyan-400',
   },
   {
     title: 'Backend',
     icon: Database,
-    skills: ['JAVA'],
+    skills: ['Java', 'Servlets', 'DAO Pattern'],
     color: 'from-accent to-pink-400',
   },
   {
     title: 'Databases',
     icon: Database,
-    skills: ['SQL'],
+    skills: ['MySQL', 'JDBC'],
     color: 'from-green-400 to-emerald-500',
   },
   {
     title: 'Tools',
     icon: Wrench,
-    skills: ['GitHub'],
+    skills: ['Eclipse', 'VS Code', 'GitHub'],
     color: 'from-orange-400 to-amber-500',
   },
   {
     title: 'AI Tools',
     icon: Sparkles,
-    skills: ['ChatGPT', 'Qwen', 'Copilot'],
+    skills: ['Qwen'],
     color: 'from-violet-400 to-purple-500',
   },
 ];
