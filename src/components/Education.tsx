@@ -21,6 +21,13 @@ const certifications = [
     skills: ['Java'],
     verification: 'https://media.licdn.com/dms/image/v2/D562DAQGsGi5QaIrb1g/profile-treasury-image-shrink_800_800/B56ZuHaTL8HgAY-/0/1767503378833?e=1768237200&v=beta&t=tFblSPSjCk5QuKqXMOavdfOhbGfObuC1Z3rcnNaPA6s',
   },
+  {
+    name: 'Java Developer Certificate',
+    platform: 'Oasis Infobyte',
+    date: '2025',
+    skills: ['Java'],
+    verification: 'https://drive.google.com/file/d/1fOgprzVQh1iV0tu4SW8VZNRDGOehj0FG/view?usp=drivesdk',
+  },
 ];
 
 export const Education = () => {
