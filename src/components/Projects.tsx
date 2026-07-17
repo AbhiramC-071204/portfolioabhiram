@@ -41,6 +41,15 @@ const projects = [
     github: 'https://github.com/AbhiramC-071204/weatherflowforecast',
     live: null,
   },
+  {
+    title: 'ScholarAIHub',
+    description: 'An all-in-one AI-powered web application combining coding practice, portfolio building, AI assistance, and learning resources in a single platform. Built to help students and developers sharpen their skills, create projects, and leverage AI tools effectively.',
+    techStack: ['HTML', 'CSS', 'React', 'Vite', 'AI'],
+    status: 'Completed',
+    category: 'Web Development',
+    github: 'https://github.com/AbhiramC-071204/ScholarAIHub',
+    live: null,
+  },
 ];
 
 const categories = ['All', 'Machine Learning', 'Web Development', 'Full Stack', 'Java'];
