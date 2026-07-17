@@ -58,7 +58,7 @@ export const Education = () => {
               transition={{ delay: 0.2 }}
               className="text-primary font-mono text-sm"
             >
-              06. Education & Certifications
+              04. Education & Certifications
             </motion.span>
             <h2 className="section-title mt-2">Academic Journey</h2>
           </div>
