@@ -53,10 +53,10 @@ export const About = () => {
                 web development.
               </p>
               <p className="text-muted-foreground leading-relaxed">
-                I enjoy building practical projects using <span className="text-primary">HTML, CSS, and Java</span>, 
+                I enjoy building practical projects using <span className="text-primary">HTML, CSS, JavaScript, and Java</span>, 
                 focusing on writing clean and efficient code. Currently, I am gaining hands-on 
-                experience through an internship at <span className="text-primary">TAP Academy</span>, where I am 
-                strengthening my problem-solving and programming skills.
+                experience as a <span className="text-primary">Full Stack Developer Intern</span> at TAP Academy, Bangalore, where 
+                I am strengthening my problem-solving and programming skills while working on real-world projects like FoodyHub.
               </p>
               <p className="text-muted-foreground leading-relaxed">
                 I am passionate about continuous learning and aspire to grow as a 
@@ -96,7 +96,7 @@ export const About = () => {
             className="mt-16 grid grid-cols-2 md:grid-cols-4 gap-4"
           >
             {[
-              { value: '1+', label: 'Projects Built' },
+              { value: '5+', label: 'Projects Built' },
               { value: '3+', label: 'Technologies' },
               { value: '2026', label: 'Graduating' },
               { value: '∞', label: 'Learning' },
