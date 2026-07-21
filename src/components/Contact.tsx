@@ -74,7 +74,7 @@ export const Contact = () => {
               transition={{ delay: 0.25 }}
               className="text-primary font-mono text-sm block mb-2"
             >
-              05. Contact
+              06. Contact
             </motion.span>
             <h2 className="section-title">Let's Work Together</h2>
             <p className="section-subtitle mx-auto mt-4">

@@ -82,7 +82,7 @@ export const Projects = () => {
               transition={{ delay: 0.2 }}
               className="text-primary font-mono text-sm"
             >
-              03. Projects
+              04. Projects
             </motion.span>
             <h2 className="section-title mt-2">Things I've Built</h2>
             <p className="section-subtitle mx-auto mt-4">
